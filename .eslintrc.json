@@ -38,6 +38,7 @@
       {
         "consistent": true
       }
-    ]
+    ],
+    "import/no-extraneous-dependencies": "off"
   }
 }
