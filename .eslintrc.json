@@ -39,6 +39,8 @@
         "consistent": true
       }
     ],
-    "import/no-extraneous-dependencies": "off"
+    "import/no-extraneous-dependencies": "off",
+    "react/jsx-props-no-spreading": "off",
+    "@typescript-eslint/no-empty-function": "off"
   }
 }
